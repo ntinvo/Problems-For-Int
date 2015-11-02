@@ -1,4 +1,7 @@
 public class unique {
+
+	/* Unique character */
+	
 	public static void main(String[] args) {
 		String s1 = "abcdef";
 		String s2 = "apple";
