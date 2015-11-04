@@ -32,7 +32,9 @@ public class kToLastElem {
 		return p1.data;
 	}
 
-
+	/*****************************************************************/
+	/* LINKEDLISTNODE FROM CRACKING THE CODING INTERVIEW 6TH EDITION */
+	/*****************************************************************/
 	public static class LinkedListNode {
 		public LinkedListNode next;
 		public LinkedListNode prev;
